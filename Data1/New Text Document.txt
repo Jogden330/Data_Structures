@@ -1,0 +1,3 @@
+ather: Jonathan Ogden
+discription: creats a menu and adds things to it to test it
+output: the added ideams to the menu
